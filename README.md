@@ -220,4 +220,4 @@ docker-compose down
 ## Author
 
 Deepthi Christina Victor Sagayanathan
-[LinkedIn](https://www.linkedin.com/in/deepthi-christina-victor-sagayanathan) | deepthiv1709@gmail.com
+[LinkedIn](https://www.linkedin.com/in/deepthi-christina-victor-sagayanathan-691105232/) | deepthiv1709@gmail.com
