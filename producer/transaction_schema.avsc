@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "name": "Transaction",
+  "fields": [
+    {"name": "transaction_id", "type": "string"},
+    {"name": "user_id",        "type": "string"},
+    {"name": "amount",         "type": "double"},
+    {"name": "currency",       "type": "string"},
+    {"name": "merchant",       "type": "string"},
+    {"name": "timestamp",      "type": "string"},
+    {"name": "status",         "type": "string"}
+  ]
+}
